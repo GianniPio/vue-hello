@@ -5,3 +5,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* tag della pagina */
+
+.centrato {
+    text-align: center;
+}
+
+.full {
+    width: 70%;
+}
